@@ -1,0 +1,22 @@
+{
+  "blender_version": "5.0.1",
+  "vertices": 1536,
+  "polygons": 1536,
+  "world_bounds": [
+    [
+      -0.022647883743047714,
+      0.02264789678156376
+    ],
+    [
+      -0.0661887526512146,
+      0.06618879735469818
+    ],
+    [
+      -0.06618872284889221,
+      0.06618878245353699
+    ]
+  ],
+  "external_images": 0,
+  "geometry_preserved_on_material_cleanup": true,
+  "fbx_roundtrip_max_coordinate_error_m": 1.1780402431327275e-08
+}

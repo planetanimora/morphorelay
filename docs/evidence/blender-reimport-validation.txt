@@ -1,0 +1,13 @@
+M4: Created Blueprint /Game/PlanetAnimora/POC/M4/BP_M4_RadialMouth_POC.BP_M4_RadialMouth_POC
+M4: Saved map /Game/PlanetAnimora/POC/M4/MAP_M4_RadialMouth_POC
+M4: Aperture 0.0 top radius 2.1824255571710944 bottom radius 2.1824255571710944
+M4: Aperture 0.25 top radius 2.77000173029477 bottom radius 2.77000173029477
+M4: Aperture 0.5 top radius 3.357577903418446 bottom radius 3.357577903418446
+M4: Aperture 0.75 top radius 3.9451538764148832 bottom radius 3.9451538764148832
+M4: Aperture 1.0 top radius 4.532730249665797 bottom radius 4.532730249665797
+M4: Synthetic Live Link jawOpen 0.8 reached M4_Aperture; live subject still required
+M4: Weight validation 1536 vertices; 1380 mixed; 156 anchored
+M4: Simulated geometry 0.0 inner mean radius 0.9681193923534632 outer mean motion 0.00029262214547477673 minimum radius 0.914141213723041
+M4: Simulated geometry 0.5 inner mean radius 2.118307430291893 outer mean motion 0.0 minimum radius 2.0892934775164447
+M4: Simulated geometry 1.0 inner mean radius 3.2684977427488584 outer mean motion 0.0002926221454747771 minimum radius 3.2244036099257247
+M4: STAGE 3 COMPLETE

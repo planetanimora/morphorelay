@@ -1,0 +1,11 @@
+M4: Aperture 0.0 top radius 2.1824255435080127 bottom radius 2.1824255435080127
+M4: Aperture 0.25 top radius 2.770001712953166 bottom radius 2.770001712953166
+M4: Aperture 0.5 top radius 3.3575778823983193 bottom radius 3.3575778823983193
+M4: Aperture 0.75 top radius 3.9451538517162357 bottom radius 3.9451538517162357
+M4: Aperture 1.0 top radius 4.532730221288626 bottom radius 4.532730221288626
+M4: Synthetic Live Link jawOpen 0.8 reached M4_Aperture; live subject still required
+M4: Weight validation 1536 vertices; 1380 mixed; 156 anchored
+M4: Simulated geometry 0.0 inner mean radius 0.9681194127366004 outer mean motion 0.00029262214364281485 minimum radius 0.9141412210800219
+M4: Simulated geometry 0.5 inner mean radius 2.1183074434684013 outer mean motion 0.0 minimum radius 2.0892934347265983
+M4: Simulated geometry 1.0 inner mean radius 3.268497748722829 outer mean motion 0.0002926221436428149 minimum radius 3.224403525684849
+M4: STAGE 3 COMPLETE
